@@ -1,0 +1,7 @@
+NET "clk" LOC = "M13";
+NET "reset" LOC = "R18";
+
+NET "cnt[3]" LOC = "G15";
+NET "cnt[2]" LOC = "J16";
+NET "cnt[1]" LOC = "G13";
+NET "cnt[0]" LOC = "H16";

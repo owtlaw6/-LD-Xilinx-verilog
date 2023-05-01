@@ -1,0 +1,10 @@
+LOC "c05" NET = "M13";
+LOC "c10" NET = "R18";
+LOC "sel[1]" NET = "R15";
+LOC "sel[0]" NET = "T17";
+LOC "clock" NET = "P17";
+LOC "reset" NET = "R16";
+
+LOC "cap" NET = "G15";
+LOC "es" NET = "J16";
+LOC "esl" NET = "G13";

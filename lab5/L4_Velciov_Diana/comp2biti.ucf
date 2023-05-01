@@ -1,0 +1,8 @@
+NET "a[1]" LOC = "M13";
+NET "a[0]" LOC = "R18";
+NET "b[1]" LOC = "R15";
+NET "b[0]" LOC = "T17";
+
+NET "sm" LOC = "J14";
+NET "gr" LOC = "J15";
+

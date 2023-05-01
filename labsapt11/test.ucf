@@ -1,0 +1,6 @@
+LOC "gen" NET = "M13";
+LOC "on" NET = "R18";
+LOC "clock" NET = "R15";
+LOC "reset" NET = "T17";
+
+LOC "led" NET = "G15";
